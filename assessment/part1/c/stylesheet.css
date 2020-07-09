@@ -1,0 +1,26 @@
+body {
+    font-family: Tahoma;
+    color: black;
+    font-size: 16px;
+}
+
+li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#orange {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: orange;
+}
+
+#red {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+#pink {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: pink;
+}
+

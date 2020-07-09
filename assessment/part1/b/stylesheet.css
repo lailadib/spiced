@@ -1,0 +1,63 @@
+div {
+    display: inline-block;
+}
+
+#gray, #black, #blue, #purple {
+width: 280px;
+height: 280px;
+}
+
+#orange, #yellow, #green, #pink {
+    width: 140px;
+    height: 140px;
+}
+
+#gray {
+    background-color: gray;
+    text-align: right;
+    position: relative;
+}
+
+#black {
+    background: black;
+    text-align: right;
+    position: relative;
+}
+
+#blue {
+    background-color: blue;
+    position: relative;
+}
+
+#purple {
+    background-color: purple;
+    position: relative;
+}
+
+#orange {
+    background-color: orange;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+#yellow {
+    background-color: yellow;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+#green {
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#pink {
+    background-color: pink;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
